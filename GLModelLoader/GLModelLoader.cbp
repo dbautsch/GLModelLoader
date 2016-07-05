@@ -38,6 +38,7 @@
 			<Add library="SDL2" />
 			<Add library="GLEW" />
 			<Add library="GL" />
+			<Add library="assimp" />
 		</Linker>
 		<Unit filename="GLModel.cpp" />
 		<Unit filename="GLModel.hpp" />
