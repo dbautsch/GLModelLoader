@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1467471303 source:/home/dawid/Pulpit/SOURCE/GLModelLoader/GLModelLoader/GLSCene.cpp
+	"GLSCene.hpp"
+	<stdexcept>
+
+1467471201 /home/dawid/Pulpit/SOURCE/GLModelLoader/GLModelLoader/GLSCene.hpp
+	<SDL2/SDL.h>
+
+1467739939 source:/home/dawid/Pulpit/SOURCE/GLModelLoader/GLModelLoader/GLScene.cpp
+	"GLScene.hpp"
+	<stdexcept>
+	<GL/glew.h>
+	<unistd.h>
+
+1467740221 /home/dawid/Pulpit/SOURCE/GLModelLoader/GLModelLoader/GLScene.hpp
+	<SDL2/SDL.h>
+
+1467474338 source:/home/dawid/Pulpit/SOURCE/GLModelLoader/GLModelLoader/main.cpp
+	<iostream>
+	<exception>
+	<memory>
+	"GLScene.hpp"
+
